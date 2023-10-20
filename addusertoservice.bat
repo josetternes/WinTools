@@ -1,0 +1,1 @@
+subinacl /service ServiceName /GRANT=DOMAIN\user=STOPI
